@@ -1,0 +1,7 @@
+require 'datenfisch/operators/project'
+require 'datenfisch/operators/rename'
+require 'datenfisch/operators/restrict'
+require 'datenfisch/operators/derive'
+require 'datenfisch/operators/composite'
+require 'datenfisch/operators/join'
+require 'datenfisch/operators/aggregate'
